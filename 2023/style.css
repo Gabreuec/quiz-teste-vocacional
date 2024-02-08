@@ -1,0 +1,51 @@
+
+body{
+   background-image: url(fundo2.avif) ;
+   background-repeat: no-repeat;
+   background-size: cover;
+  color: aliceblue;
+  margin-left: 15px;
+
+}
+h1{
+    color:moccasin;
+    text-align: center;
+    margin:0;
+}
+h2{
+  color:moccasin;
+    text-align: center;
+    margin:0;
+    font-size: medium;
+}
+form{
+  font-size: large;
+}
+.button {
+ background-color: black;
+ color: azure;
+ border: none;
+ padding: 10px 10px;
+ border-radius: 10px; /* Valor do raio que arredonda as pontas */
+ cursor: pointer;
+ align-items: center;
+ 
+}
+div{
+font-size:xx-large ;  
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+img{
+  width: 80%;
+  height: 90vh;
+  max-width: 100%;
+  height: auto;
+}
+.D1{
+  background-color: black;
+
+}
